@@ -15,21 +15,21 @@ Visit the official Trend Micro website, choose your product, and follow simple s
 🔽 Step-by-Step Guide to Download Trend Micro
 ---------------------------------------------
 
-**1. Visit the Official Website
+- **1. Visit the Official Website
 
 Go to the official Trend Micro website – `www.trendmicro.com <https://www.trendmicro.com>`_.  
 Here you’ll find the download option for different products such as **Trend Micro Antivirus, Internet Security, and Maximum Security**.
 
-**2. Choose Your Product
+- **2. Choose Your Product
 
 Select the version that suits your device and needs.  
 If you’re new, you can try the **free trial** before purchasing the full version.
 
-**3. Start the Download
+- **3. Start the Download
 
 Click on the **“Trend Micro Download”** button and save the installer file on your device.
 
-**4. Install the Software
+- **4. Install the Software
 
 - Open the downloaded file.  
 - Follow the on-screen steps.  
