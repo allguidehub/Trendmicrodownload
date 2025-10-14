@@ -7,7 +7,7 @@ Visit the official Trend Micro website, choose your product, and follow simple s
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.trendmicro.com/en_us/forHome/products/maximum-security.html" style="background-color:#ed1c24; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?4YTrHbkkyqwG8Xj6zRWWZoyjTXDSjZY6V0un57c21DEHObFGAq7NRp801mCAy5fq1oKVLoCEpbk1s" style="background-color:#ed1c24; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Trend Micro Now
         </a>
     </div>
@@ -77,13 +77,13 @@ Yes! Trend Micro automatically checks for updates after download, but you can al
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.trendmicro.com/en_us/forHome/products/maximum-security.html" style="background-color:#ed1c24; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?4YTrHbkkyqwG8Xj6zRWWZoyjTXDSjZY6V0un57c21DEHObFGAq7NRp801mCAy5fq1oKVLoCEpbk1s" style="background-color:#ed1c24; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Trend Micro
         </a>
-        <a href="https://www.trendmicro.com/en_us/about/contact.html" style="background-color:#ff6b6b; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?4YTrHbkkyqwG8Xj6zRWWZoyjTXDSjZY6V0un57c21DEHObFGAq7NRp801mCAy5fq1oKVLoCEpbk1s" style="background-color:#ff6b6b; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Trend Micro Support
         </a>
-        <a href="https://www.trendmicro.com/en_us/forHome/products.html" style="background-color:#a7a7a7; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?4YTrHbkkyqwG8Xj6zRWWZoyjTXDSjZY6V0un57c21DEHObFGAq7NRp801mCAy5fq1oKVLoCEpbk1s" style="background-color:#a7a7a7; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Explore Products
         </a>
     </div>
